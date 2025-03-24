@@ -27,8 +27,5 @@ Developed by AxelPasky. Peer Correction by MichelleDiTerlizzi.
 
 
 
-go
-Copia
-Modifica
 
 
