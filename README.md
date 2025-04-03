@@ -10,6 +10,7 @@ This repository contains exercises designed to test knowledge of **arrays in PHP
 ## 📁 Repository Structure  
 - ` level1` - Beginner exercises on arrays  
 - ` level2` - More complex exercises on associative arrays and array manipulation functions  
+- ` level3` - Learn how to use 3 array function (_map , _filter , _reduce)
 
 ## 🛠️ Technologies Used  
 -  **PHP 8.2**  
